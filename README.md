@@ -1,11 +1,11 @@
-# 🌍 Global Climate Analysis | Power BI
+#  Global Climate Analysis | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes global climate data using Power BI to identify temperature trends, climate changes, and environmental patterns through interactive dashboards and visual analytics.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - DAX
 - Power Query
@@ -13,7 +13,7 @@ This project analyzes global climate data using Power BI to identify temperature
 
 ---
 
-## 📊 Key Features
+##  Key Features
 - Year-wise climate trend analysis
 - Region-wise temperature comparison
 - Interactive dashboards and filters
@@ -21,14 +21,14 @@ This project analyzes global climate data using Power BI to identify temperature
 
 ---
 
-## 📈 Project Insights
+##  Project Insights
 - Identified long-term temperature growth trends
 - Compared climate variations across regions
 - Improved reporting efficiency using interactive dashboards
 
 ---
 
-## 🖼 Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### Dashboard 1
 ![Dashboard 1](climate_dashboard_1.png)
@@ -38,5 +38,5 @@ This project analyzes global climate data using Power BI to identify temperature
 
 ---
 
-## 📂 Project File
+##  Project File
 Global_climate_analysis Project.pbix
