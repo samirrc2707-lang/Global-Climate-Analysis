@@ -31,10 +31,10 @@ This project analyzes global climate data using Power BI to identify temperature
 ##  Dashboard Screenshots
 
 ### Dashboard 1
-![Dashboard 1](climate_dashboard_1.png)
+![Dashboard 1](Climate_dashboard_1.png)
 
 ### Dashboard 2
-![Dashboard 2](climate_dashboard_2.png)
+![Dashboard 2](Climate_dashboard_2.png)
 
 ---
 
